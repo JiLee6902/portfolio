@@ -1,0 +1,10 @@
+
+
+const HomeCV = () => {
+    return (
+        <>
+        </>
+    )
+}
+
+export default HomeCV;
